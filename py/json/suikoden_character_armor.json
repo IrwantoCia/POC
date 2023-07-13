@@ -1,0 +1,724 @@
+[
+    {
+        "name": "<Hero>",
+        "image_url": "../../../images/gs1/avatar/hero1.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Kai",
+        "image_url": "../../../images/gs1/avatar/kai.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Mina",
+        "image_url": "../../../images/gs1/avatar/mina.gif",
+        "classes": [
+            "C",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Alen",
+        "image_url": "../../../images/gs1/avatar/alen.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Kamandol",
+        "image_url": "../../../images/gs1/avatar/kamandol.gif",
+        "classes": [
+            "E",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Moose",
+        "image_url": "../../../images/gs1/avatar/moose.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Anji",
+        "image_url": "../../../images/gs1/avatar/anji.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Kanak",
+        "image_url": "../../../images/gs1/avatar/kanak.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Morgan",
+        "image_url": "../../../images/gs1/avatar/morgan.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Antonio",
+        "image_url": "../../../images/gs1/avatar/antonio.gif",
+        "classes": [
+            "C",
+            "V",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Kasim",
+        "image_url": "../../../images/gs1/avatar/kasim.gif",
+        "classes": [
+            "E",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Mose",
+        "image_url": "../../../images/gs1/avatar/mose.gif",
+        "classes": [
+            "E",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Blackman",
+        "image_url": "../../../images/gs1/avatar/blackman.gif",
+        "classes": [
+            "C",
+            "H",
+            "M"
+        ]
+    },
+    {
+        "name": "Kasumi",
+        "image_url": "../../../images/gs1/avatar/kasumi.gif",
+        "classes": [
+            "C",
+            "V",
+            "F"
+        ]
+    },
+    {
+        "name": "Odessa",
+        "image_url": "../../../images/gs1/avatar/odessa.gif",
+        "classes": [
+            "C",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Camille",
+        "image_url": "../../../images/gs1/avatar/camille.gif",
+        "classes": [
+            "C",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Kessler",
+        "image_url": "../../../images/gs1/avatar/kessler.gif",
+        "classes": [
+            "C",
+            "H",
+            "M"
+        ]
+    },
+    {
+        "name": "Pahn",
+        "image_url": "../../../images/gs1/avatar/pahn.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Cleo",
+        "image_url": "../../../images/gs1/avatar/cleo.gif",
+        "classes": [
+            "E",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Kimberly",
+        "image_url": "../../../images/gs1/avatar/kimberly.gif",
+        "classes": [
+            "C",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Pesmerga",
+        "image_url": "../../../images/gs1/avatar/pesmerga.gif",
+        "classes": [
+            "E",
+            "H",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Clive",
+        "image_url": "../../../images/gs1/avatar/clive.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Kirke",
+        "image_url": "../../../images/gs1/avatar/kirke.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Quincy",
+        "image_url": "../../../images/gs1/avatar/quincy.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Crowley",
+        "image_url": "../../../images/gs1/avatar/crowley.gif",
+        "classes": [
+            "C",
+            "R",
+            "M"
+        ]
+    },
+    {
+        "name": "Kirkis",
+        "image_url": "../../../images/gs1/avatar/kirkis.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Ronnie",
+        "image_url": "../../../images/gs1/avatar/ronnie.gif",
+        "classes": [
+            "C",
+            "V",
+            "F"
+        ]
+    },
+    {
+        "name": "Eikei",
+        "image_url": "../../../images/gs1/avatar/eikei.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Kreutz",
+        "image_url": "../../../images/gs1/avatar/kreutz.gif",
+        "classes": [
+            "E",
+            "H",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Rubi",
+        "image_url": "../../../images/gs1/avatar/rubi.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Eileen",
+        "image_url": "../../../images/gs1/avatar/eileen.gif",
+        "classes": [
+            "C",
+            "R",
+            "F"
+        ]
+    },
+    {
+        "name": "Krin",
+        "image_url": "../../../images/gs1/avatar/krin.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Sansuke",
+        "image_url": "../../../images/gs1/avatar/sansuke.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Flik",
+        "image_url": "../../../images/gs1/avatar/flik.gif",
+        "classes": [
+            "C",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Kuromimi",
+        "image_url": "../../../images/gs1/avatar/kuromimi.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "K"
+        ]
+    },
+    {
+        "name": "Sarah",
+        "image_url": "../../../images/gs1/avatar/sarah.gif",
+        "classes": [
+            "C",
+            "V",
+            "F"
+        ]
+    },
+    {
+        "name": "Fu Su Lu",
+        "image_url": "../../../images/gs1/avatar/fusulu.gif",
+        "classes": [
+            "E",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Kwanda",
+        "image_url": "../../../images/gs1/avatar/kwanda.gif",
+        "classes": [
+            "E",
+            "H",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Sergei",
+        "image_url": "../../../images/gs1/avatar/sergei.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Fukien",
+        "image_url": "../../../images/gs1/avatar/fukien.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Leonardo",
+        "image_url": "../../../images/gs1/avatar/leonardo.gif",
+        "classes": [
+            "E",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Sheena",
+        "image_url": "../../../images/gs1/avatar/sheena.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Fuma",
+        "image_url": "../../../images/gs1/avatar/fuma.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Lester",
+        "image_url": "../../../images/gs1/avatar/lester.gif",
+        "classes": [
+            "C",
+            "V",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Sonya",
+        "image_url": "../../../images/gs1/avatar/sonya.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "F"
+        ]
+    },
+    {
+        "name": "Futch",
+        "image_url": "../../../images/gs1/avatar/futch.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Lepant",
+        "image_url": "../../../images/gs1/avatar/lepant.gif",
+        "classes": [
+            "C",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Stallion",
+        "image_url": "../../../images/gs1/avatar/stallion.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Gen",
+        "image_url": "../../../images/gs1/avatar/gen.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Liukan",
+        "image_url": "../../../images/gs1/avatar/liukan.gif",
+        "classes": [
+            "C",
+            "R",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Sydonia",
+        "image_url": "../../../images/gs1/avatar/sydonia.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Gon",
+        "image_url": "../../../images/gs1/avatar/gon.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "K"
+        ]
+    },
+    {
+        "name": "Lorelai",
+        "image_url": "../../../images/gs1/avatar/lorelai.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "F"
+        ]
+    },
+    {
+        "name": "Sylvina",
+        "image_url": "../../../images/gs1/avatar/sylvina.gif",
+        "classes": [
+            "C",
+            "R",
+            "F"
+        ]
+    },
+    {
+        "name": "Gremio",
+        "image_url": "../../../images/gs1/avatar/gremio.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Lotte",
+        "image_url": "../../../images/gs1/avatar/lotte.gif",
+        "classes": [
+            "C",
+            "L",
+            "F"
+        ]
+    },
+    {
+        "name": "Tai Ho",
+        "image_url": "../../../images/gs1/avatar/taiho.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Grenseal",
+        "image_url": "../../../images/gs1/avatar/grenseal.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Luc",
+        "image_url": "../../../images/gs1/avatar/luc.gif",
+        "classes": [
+            "C",
+            "R",
+            "M"
+        ]
+    },
+    {
+        "name": "Ted",
+        "image_url": "../../../images/gs1/avatar/ted.gif",
+        "classes": [
+            "C",
+            "R",
+            "M"
+        ]
+    },
+    {
+        "name": "Griffith",
+        "image_url": "../../../images/gs1/avatar/griffith.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Maas",
+        "image_url": "../../../images/gs1/avatar/maas.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Tengaar",
+        "image_url": "../../../images/gs1/avatar/tengaar.gif",
+        "classes": [
+            "C",
+            "R",
+            "F"
+        ]
+    },
+    {
+        "name": "Hellion",
+        "image_url": "../../../images/gs1/avatar/hellion.gif",
+        "classes": [
+            "C",
+            "R",
+            "F"
+        ]
+    },
+    {
+        "name": "Mace",
+        "image_url": "../../../images/gs1/avatar/mace.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Valeria",
+        "image_url": "../../../images/gs1/avatar/valeria.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "F"
+        ]
+    },
+    {
+        "name": "Hix",
+        "image_url": "../../../images/gs1/avatar/hix.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "M"
+        ]
+    },
+    {
+        "name": "Meese",
+        "image_url": "../../../images/gs1/avatar/meese.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Varkas",
+        "image_url": "../../../images/gs1/avatar/varkas.gif",
+        "classes": [
+            "E",
+            "H",
+            "M"
+        ]
+    },
+    {
+        "name": "Humphrey",
+        "image_url": "../../../images/gs1/avatar/humphrey.gif",
+        "classes": [
+            "E",
+            "H",
+            "M"
+        ]
+    },
+    {
+        "name": "Meg",
+        "image_url": "../../../images/gs1/avatar/meg.gif",
+        "classes": [
+            "C",
+            "V",
+            "F"
+        ]
+    },
+    {
+        "name": "Viktor",
+        "image_url": "../../../images/gs1/avatar/viktor.gif",
+        "classes": [
+            "C",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Juppo",
+        "image_url": "../../../images/gs1/avatar/juppo.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Milia",
+        "image_url": "../../../images/gs1/avatar/milia.gif",
+        "classes": [
+            "E",
+            "L",
+            "S",
+            "F"
+        ]
+    },
+    {
+        "name": "Warren",
+        "image_url": "../../../images/gs1/avatar/warren.gif",
+        "classes": [
+            "E",
+            "L",
+            "M"
+        ]
+    },
+    {
+        "name": "Kage",
+        "image_url": "../../../images/gs1/avatar/kage.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    },
+    {
+        "name": "Milich",
+        "image_url": "../../../images/gs1/avatar/milich.gif",
+        "classes": [
+            "C",
+            "L",
+            "S",
+            "N"
+        ]
+    },
+    {
+        "name": "Yam Koo",
+        "image_url": "../../../images/gs1/avatar/yamkoo.gif",
+        "classes": [
+            "C",
+            "V",
+            "M"
+        ]
+    }
+]
