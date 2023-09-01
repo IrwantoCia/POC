@@ -1,13 +1,11 @@
 import {Router} from 'express';
-import findOne from "../controller/user/find-one";
-import create from "../controller/user/create";
-import update from "../controller/user/update";
-import destroy from "../controller/user/destroy";
+import UserController from "../controller/user/user-controller";
 
-const router = Router();
-router.get('/:id', findOne);
-router.post('/', create);
-router.put('/:id', update);
-router.delete('/:id', destroy);
+const userRouter = Router();
 
-export default router;
+//userRouter.get('/:id', findOne);
+userRouter.post('/', UserController.create);
+//userRouter.put('/:id', update);
+//userRouter.delete('/:id', destroy);
+
+export default userRouter;
