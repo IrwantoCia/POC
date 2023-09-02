@@ -1,0 +1,895 @@
+[
+    [
+        {
+            "name": "Bandanna",
+            "bits": 50,
+            "wear": [
+                "C"
+            ],
+            "def": 1,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #1Loot: Crow",
+                "loot": "Crow",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Headband",
+            "bits": 300,
+            "wear": [
+                "C",
+                "E"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster, Rockland, Lenankamp",
+                "loot": "",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Pointed Hat",
+            "bits": 1200,
+            "wear": [
+                "C"
+            ],
+            "def": 5,
+            "effect": "Prevents \"Balloon\"",
+            "source": {
+                "shop": "Lenankamp, Kaku",
+                "loot": "Red Soldier Ant, Soldier Ant, Robot Soldier (spear)",
+                "treasure": "Toran Basement, Dwarves' Vault"
+            }
+        },
+        {
+            "name": "Half Helmet",
+            "bits": 3300,
+            "wear": [
+                "C",
+                "E"
+            ],
+            "def": 9,
+            "effect": "",
+            "source": {
+                "shop": "Dwarf Village, Antei, Kirov",
+                "loot": "Death Machine (spear)",
+                "treasure": "Soniere"
+            }
+        },
+        {
+            "name": "Head Gear",
+            "bits": 6500,
+            "wear": [
+                "C"
+            ],
+            "def": 14,
+            "effect": "",
+            "source": {
+                "shop": "Antei, Warrior's Village",
+                "loot": "Mad Ivy, Grizzly Bear",
+                "treasure": "Qlon Cave"
+            }
+        },
+        {
+            "name": "Full Helmet",
+            "bits": 13200,
+            "wear": [
+                "E"
+            ],
+            "def": 20,
+            "effect": "",
+            "source": {
+                "shop": "Warrior's Village",
+                "loot": "Grave Master",
+                "treasure": "Neclord's Castle"
+            }
+        },
+        {
+            "name": "Silver Hat",
+            "bits": 27000,
+            "wear": [
+                "C"
+            ],
+            "def": 27,
+            "effect": "Auto-heal +5",
+            "source": {
+                "shop": "Gregminster #2Loot: Queen Ant",
+                "loot": "Queen Ant",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Horned Helmet",
+            "bits": 43000,
+            "wear": [
+                "E"
+            ],
+            "def": 35,
+            "effect": "",
+            "source": {
+                "shop": "",
+                "loot": "Elite Soldier",
+                "treasure": "Gregminster Palace"
+            }
+        }
+    ],
+    [
+        {
+            "name": "Robe",
+            "bits": 100,
+            "wear": [
+                "L",
+                "V",
+                "R"
+            ],
+            "def": 1,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #1Loot: Holly Boy",
+                "loot": "Holly Boy",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Tunic",
+            "bits": 200,
+            "wear": [
+                "L",
+                "V"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #1, Rockland, LenankampLoot: Bandit (green)",
+                "loot": "Bandit (green)",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Leather Coat",
+            "bits": 700,
+            "wear": [
+                "L",
+                "H",
+                "V"
+            ],
+            "def": 4,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #1, Rockland, Lenankamp, Kaku",
+                "loot": "",
+                "treasure": "Magican's Island"
+            }
+        },
+        {
+            "name": "Brass Armor",
+            "bits": 1000,
+            "wear": [
+                "L",
+                "H"
+            ],
+            "def": 5,
+            "effect": "",
+            "source": {
+                "shop": "Lenankamp, Kaku, Dwarf Village",
+                "loot": "Ghost Armor, Empire Soldier (sword #4)",
+                "treasure": "Grady's Mansion"
+            }
+        },
+        {
+            "name": "Guard Robe",
+            "bits": 1700,
+            "wear": [
+                "L",
+                "V",
+                "R"
+            ],
+            "def": 7,
+            "effect": "MAG +15",
+            "source": {
+                "shop": "Kaku",
+                "loot": "Kobold (mage)",
+                "treasure": "Dwarves' Trail"
+            }
+        },
+        {
+            "name": "Karate Uniform",
+            "bits": 3000,
+            "wear": [
+                "L",
+                "V"
+            ],
+            "def": 10,
+            "effect": "",
+            "source": {
+                "shop": "Kouan",
+                "loot": "Slasher Rabbit, Dwarf",
+                "treasure": "Dwarves' Trail"
+            }
+        },
+        {
+            "name": "Leather Armor",
+            "bits": 5900,
+            "wear": [
+                "L",
+                "H"
+            ],
+            "def": 14,
+            "effect": "",
+            "source": {
+                "shop": "Kouan, Dwarf Village",
+                "loot": "Veteran Soldier (spear)",
+                "treasure": "Lepant's House"
+            }
+        },
+        {
+            "name": "Half Armor",
+            "bits": 8700,
+            "wear": [
+                "H"
+            ],
+            "def": 18,
+            "effect": "",
+            "source": {
+                "shop": "Dwarf Village",
+                "loot": "Dragon",
+                "treasure": "Panna Yakuta"
+            }
+        },
+        {
+            "name": "Magic Robe",
+            "bits": 15000,
+            "wear": [
+                "L",
+                "V",
+                "R"
+            ],
+            "def": 22,
+            "effect": "",
+            "source": {
+                "shop": "Antei",
+                "loot": "Holly Fairy",
+                "treasure": "Dwarves' Vault, Scarleticia"
+            }
+        },
+        {
+            "name": "Ninja Suit",
+            "bits": 22000,
+            "wear": [
+                "L",
+                "V"
+            ],
+            "def": 28,
+            "effect": "SPD +5",
+            "source": {
+                "shop": "Antei, KirovLoot: Viperman",
+                "loot": "Viperman",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Dragon Armor",
+            "bits": 37000,
+            "wear": [
+                "L",
+                "H"
+            ],
+            "def": 34,
+            "effect": "",
+            "source": {
+                "shop": "Warrior's Village, Kirov, Gregminster #2Loot: Dagon",
+                "loot": "Dagon",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Master Robe",
+            "bits": 78000,
+            "wear": [
+                "V",
+                "R"
+            ],
+            "def": 37,
+            "effect": "Auto-heal +5",
+            "source": {
+                "shop": "Gregminster #2",
+                "loot": "Sorcerer",
+                "treasure": "Seek Valley"
+            }
+        },
+        {
+            "name": "Full Armor",
+            "bits": 57000,
+            "wear": [
+                "H"
+            ],
+            "def": 45,
+            "effect": "",
+            "source": {
+                "shop": "Warrior's VillageLoot: Clay Doll",
+                "loot": "Clay Doll",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Taikioku Wear",
+            "bits": 80000,
+            "wear": [
+                "V"
+            ],
+            "def": 48,
+            "effect": "SPD +10",
+            "source": {
+                "shop": "",
+                "loot": "Rock Buster",
+                "treasure": "Moravia"
+            }
+        },
+        {
+            "name": "Master Garb",
+            "bits": 93000,
+            "wear": [
+                "L",
+                "H"
+            ],
+            "def": 55,
+            "effect": "SKL +5",
+            "source": {
+                "shop": "",
+                "loot": "Earth Golem",
+                "treasure": "Shasarazade"
+            }
+        },
+        {
+            "name": "Windspun Armor",
+            "bits": 120000,
+            "wear": [
+                "H"
+            ],
+            "def": 63,
+            "effect": "SPD +20",
+            "source": {
+                "shop": "",
+                "loot": "Ekidonna",
+                "treasure": "Gregminster Palace"
+            }
+        }
+    ],
+    [
+        {
+            "name": "Wodden Shield",
+            "bits": 300,
+            "wear": [
+                "S"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Rockland, KakuLoot: Kobold (sword)",
+                "loot": "Kobold (sword)",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Steel Shield",
+            "bits": 7300,
+            "wear": [
+                "S"
+            ],
+            "def": 13,
+            "effect": "",
+            "source": {
+                "shop": "Kouan",
+                "loot": "Death Machine (sword)",
+                "treasure": "Panna Yakuta"
+            }
+        },
+        {
+            "name": "Chaos Shield",
+            "bits": 32000,
+            "wear": [
+                "S"
+            ],
+            "def": 27,
+            "effect": "",
+            "source": {
+                "shop": "Kirov",
+                "loot": "Devil Shield",
+                "treasure": "Shasarazade"
+            }
+        },
+        {
+            "name": "Earth Shield",
+            "bits": 68000,
+            "wear": [
+                "S"
+            ],
+            "def": 45,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #2Loot: Magic Shield",
+                "loot": "Magic Shield",
+                "treasure": ""
+            }
+        }
+    ],
+    [
+        {
+            "name": "Wodden Shoes",
+            "bits": 100,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 1,
+            "effect": "",
+            "source": {
+                "shop": "Gregminster #1Loot: Fur Fur",
+                "loot": "Fur Fur",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Leggings",
+            "bits": 200,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Rockland",
+                "loot": "",
+                "treasure": "Mt. Seifu"
+            }
+        },
+        {
+            "name": "Gloves",
+            "bits": 300,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Rockland, Kaku",
+                "loot": "",
+                "treasure": "Mt. Tigerwolf, Panna Yakuta"
+            }
+        },
+        {
+            "name": "Cape",
+            "bits": 400,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 2,
+            "effect": "",
+            "source": {
+                "shop": "Lenankamp, Kaku",
+                "loot": "",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Circlet",
+            "bits": 600,
+            "wear": [
+                "F",
+                "N"
+            ],
+            "def": 3,
+            "effect": "",
+            "source": {
+                "shop": "Lenankamp",
+                "loot": "",
+                "treasure": "Mt. Tigerwolf"
+            }
+        },
+        {
+            "name": "Boots",
+            "bits": 800,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 3,
+            "effect": "",
+            "source": {
+                "shop": "Kouan",
+                "loot": "",
+                "treasure": "Mt. Seifu"
+            }
+        },
+        {
+            "name": "Gauntlet",
+            "bits": 1700,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 4,
+            "effect": "",
+            "source": {
+                "shop": "Kouan",
+                "loot": "",
+                "treasure": "Great Forest"
+            }
+        },
+        {
+            "name": "Shoulder Pads",
+            "bits": 2000,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 4,
+            "effect": "",
+            "source": {
+                "shop": "Kaku",
+                "loot": "Bandit (yellow)",
+                "treasure": "Lepant's House"
+            }
+        },
+        {
+            "name": "Blue Ribbon",
+            "bits": 1150,
+            "wear": [
+                "F",
+                "N"
+            ],
+            "def": 6,
+            "effect": "",
+            "source": {
+                "shop": "Kouan",
+                "loot": "Beast Commander",
+                "treasure": "Dwarves' Vault"
+            }
+        },
+        {
+            "name": "Necklace",
+            "bits": 1200,
+            "wear": [
+                "K"
+            ],
+            "def": 7,
+            "effect": "",
+            "source": {
+                "shop": "Elves VillageLoot: Kobold (bow)",
+                "loot": "Kobold (bow)",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Emblem",
+            "bits": 2700,
+            "wear": [
+                "M",
+                "N8MAG +10Shop: KouanLoot: Veteran Soldier (bow)",
+                "N"
+            ],
+            "def": 8,
+            "effect": "MAG +10",
+            "source": {
+                "shop": "KouanLoot: Veteran Soldier (bow)",
+                "loot": "Veteran Soldier (bow)",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Fur Cape",
+            "bits": 2800,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 8,
+            "effect": "",
+            "source": {
+                "shop": "Dwarf VillageLoot: Death Boar",
+                "loot": "Death Boar",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Star Earrings",
+            "bits": 12000,
+            "wear": [
+                "F",
+                "N"
+            ],
+            "def": 8,
+            "effect": "Auto-heal +5",
+            "source": {
+                "shop": "",
+                "loot": "Hell Unicorn",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Feather",
+            "bits": 2000,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 9,
+            "effect": "",
+            "source": {
+                "shop": "Elves Village",
+                "loot": "Roc",
+                "treasure": "Dwarves' Trail"
+            }
+        },
+        {
+            "name": "Toe Shoes",
+            "bits": 2800,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 9,
+            "effect": "",
+            "source": {
+                "shop": "Antei",
+                "loot": "Holly Spirit",
+                "treasure": "Toran Basement"
+            }
+        },
+        {
+            "name": "Silver Ring",
+            "bits": 5500,
+            "wear": [
+                "F",
+                "N"
+            ],
+            "def": 11,
+            "effect": "",
+            "source": {
+                "shop": "KirovLoot: Strong Arm",
+                "loot": "Strong Arm",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Silverlet",
+            "bits": 7000,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 11,
+            "effect": "",
+            "source": {
+                "shop": "Kirov",
+                "loot": "Shadow",
+                "treasure": "Qlon Cave"
+            }
+        },
+        {
+            "name": "Mangosh",
+            "bits": 21000,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 12,
+            "effect": "SKL +20Counter-rate up",
+            "source": {
+                "shop": "",
+                "loot": "Devil Armor",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Rose Brooch",
+            "bits": 7000,
+            "wear": [
+                "N"
+            ],
+            "def": 13,
+            "effect": "",
+            "source": {
+                "shop": "AnteiLoot: Shadow, Shadow Man",
+                "loot": "Shadow, Shadow Man",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Cape of Darkness",
+            "bits": 8500,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 13,
+            "effect": "",
+            "source": {
+                "shop": "Warrior's Village, Gregminster #2",
+                "loot": "Ninja",
+                "treasure": "Neclord's Castle"
+            }
+        },
+        {
+            "name": "Speed Ring",
+            "bits": 13000,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 13,
+            "effect": "SPD +15",
+            "source": {
+                "shop": "",
+                "loot": "Mirage",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Wing Boots",
+            "bits": 10200,
+            "wear": [
+                "F"
+            ],
+            "def": 14,
+            "effect": "SPD +10",
+            "source": {
+                "shop": "Gregminster #1Loot: Ninja",
+                "loot": "Ninja",
+                "treasure": ""
+            }
+        },
+        {
+            "name": "Power Ring",
+            "bits": 14000,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 14,
+            "effect": "PWR +20",
+            "source": {
+                "shop": "",
+                "loot": "Colossus",
+                "treasure": "Gregminster Palace"
+            }
+        },
+        {
+            "name": "Guard Ring",
+            "bits": 8500,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 15,
+            "effect": "",
+            "source": {
+                "shop": "Antei, Gregminster #2",
+                "loot": "Grave Master",
+                "treasure": "Shasarazade"
+            }
+        },
+        {
+            "name": "Power Gloves",
+            "bits": 20000,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 16,
+            "effect": "PWR +15",
+            "source": {
+                "shop": "",
+                "loot": "Wyvern",
+                "treasure": "Dragon's Den"
+            }
+        },
+        {
+            "name": "Silver Necklace",
+            "bits": 6000,
+            "wear": [
+                "K"
+            ],
+            "def": 17,
+            "effect": "",
+            "source": {
+                "shop": "Kirov",
+                "loot": "Demon Hound",
+                "treasure": "Soniere"
+            }
+        },
+        {
+            "name": "Goldlet",
+            "bits": 19000,
+            "wear": [
+                "M",
+                "F",
+                "N"
+            ],
+            "def": 18,
+            "effect": "",
+            "source": {
+                "shop": "",
+                "loot": "Gigantes",
+                "treasure": "Dragon's Den"
+            }
+        },
+        {
+            "name": "Earth Boots",
+            "bits": 22000,
+            "wear": [
+                "M",
+                "K"
+            ],
+            "def": 18,
+            "effect": "",
+            "source": {
+                "shop": "",
+                "loot": "Phantom",
+                "treasure": "Neclord's Castle"
+            }
+        },
+        {
+            "name": "Crimson Cape",
+            "bits": 32000,
+            "wear": [
+                "M",
+                "F",
+                "N",
+                "K"
+            ],
+            "def": 21,
+            "effect": "",
+            "source": {
+                "shop": "",
+                "loot": "Ninja Master",
+                "treasure": "Qlon Cave"
+            }
+        },
+        {
+            "name": "Gold Necklace",
+            "bits": 17000,
+            "wear": [
+                "K"
+            ],
+            "def": 25,
+            "effect": "",
+            "source": {
+                "shop": "",
+                "loot": "Kerberos",
+                "treasure": "Seek Valley"
+            }
+        }
+    ]
+]

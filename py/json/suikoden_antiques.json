@@ -1,0 +1,166 @@
+{
+    "antiques": [
+        {
+            "name": "Blue Dragon Urn",
+            "price": 8000,
+            "sources": [
+                "Neclord's Castle: Dropped by Larvae"
+            ]
+        },
+        {
+            "name": "Celadon Urn",
+            "price": 10000,
+            "sources": [
+                "Gregminster Area: Dropped by BonBon"
+            ]
+        },
+        {
+            "name": "Failure Urn",
+            "price": 10,
+            "sources": [
+                "Gregminster Area: Dropped by BonBon",
+                "Lepant's Mansion: Dropped by Robot Soldier",
+                "Lepant's Mansion: Dropped by Slot Man",
+                "Kalekka: Dropped by Hawk Man",
+                "Neclord's Castle: Dropped by Larvae"
+            ]
+        },
+        {
+            "name": "Fine Bone China",
+            "price": 60000,
+            "sources": [
+                "Neclord's Castle: Dropped by Larvae"
+            ]
+        },
+        {
+            "name": "Nameless Urn",
+            "price": 0,
+            "sources": [
+                "Scarleticia Area: Dropped by Holly Fairy"
+            ]
+        },
+        {
+            "name": "Octopus Urn",
+            "price": 500,
+            "sources": [
+                "Gregminster Area: Dropped by BonBon",
+                "Found at Tigerwolf Mountain"
+            ]
+        },
+        {
+            "name": "Persian Lamp",
+            "price": 7500,
+            "sources": [
+                "Lepant's Mansion: Dropped by Robot Soldier",
+                "Lepant's Mansion: Dropped by Slot Man"
+            ]
+        },
+        {
+            "name": "Vase",
+            "price": 2500,
+            "sources": [
+                "Lepant's Mansion: Dropped by Robot Soldier",
+                "Lepant's Mansion: Dropped by Slot Man",
+                "Found at Seifu Mountain"
+            ]
+        },
+        {
+            "name": "Wide Urn",
+            "price": 4000,
+            "sources": [
+                "Kalekka: Dropped by Hawk Man"
+            ]
+        },
+        {
+            "name": "Chinese Dish",
+            "price": 6000,
+            "sources": [
+                "Soniere Prison: Dropped by Red Slime"
+            ]
+        },
+        {
+            "name": "Goddess Statue",
+            "price": 100000,
+            "sources": [
+                "Moravia Castle: Dropped by Whip Master"
+            ]
+        },
+        {
+            "name": "Hex Doll",
+            "price": 60,
+            "sources": [
+                "Seika Area: Dropped by Killer Rabbit",
+                "Soniere Prison: Dropped by Red Slime",
+                "Dragon Knights' Domain/Seek Valley: Dropped by Ivy",
+                "Moravia Castle: Dropped by Whip Master",
+                "Found in Grady's Mansion",
+                "Found in Kraze's Residence"
+            ]
+        },
+        {
+            "name": "Japanese Dish",
+            "price": 3000,
+            "sources": [
+                "Seika Area: Dropped by Killer Rabbit"
+            ]
+        },
+        {
+            "name": "Knight Statue",
+            "price": 30000,
+            "sources": [
+                "Dragon Knights' Domain/Seek Valley: Dropped by Ivy"
+            ]
+        },
+        {
+            "name": "Opal Stone",
+            "price": 0,
+            "sources": [
+                "(special item)",
+                "Soniere Prison: Dropped by Nightmare"
+            ]
+        },
+        {
+            "name": "Peeing Boy",
+            "price": 16000,
+            "sources": [
+                "Seika Area: Dropped by Killer Rabbit",
+                "Dragon Knights' Domain/Seek Valley: Dropped by Ivy"
+            ]
+        },
+        {
+            "name": "Flower Painting",
+            "price": 7000,
+            "sources": [
+                "Great Forest: Dropped by Holly Boy",
+                "Dwarf Trail: Dropped by Eagle Man",
+                "Found in Kalekka"
+            ]
+        },
+        {
+            "name": "Graffiti",
+            "price": 100,
+            "sources": [
+                "Great Forest: Dropped by Holly Boy",
+                "Dwarf Trail: Dropped by Eagle Man",
+                "Cave of the Past: Dropped by Banshee",
+                "Gregminster Area: Dropped by Orc"
+            ]
+        },
+        {
+            "name": "Landscape Painting",
+            "price": 40000,
+            "sources": [
+                "Cave of the Past: Dropped by Banshee"
+            ]
+        },
+        {
+            "name": "Lover's Garden",
+            "price": 29000,
+            "sources": [
+                "Great Forest: Dropped by Holly Boy",
+                "Dwarf Trail: Dropped by Eagle Man",
+                "Gregminster Area: Dropped by Orc"
+            ]
+        }
+    ]
+}

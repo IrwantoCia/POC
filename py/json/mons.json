@@ -1,0 +1,63 @@
+{
+  "name": "Holly Boy",
+  "image_url": "images/bestiary/holly_boy_1.gif",
+  "location": "Magician's Island",
+  "stats": {
+    "lvl": 3,
+    "hp": 10,
+    "pwr": 29,
+    "skl": 5,
+    "def": 7,
+    "spd": 15,
+    "mgc": 10,
+    "luk": 70
+  },
+  "bits": 10,
+  "weakness": [
+    {
+      "element": "water",
+      "value": "",
+      "image_url": "small_water.gif"
+    },
+    {
+      "element": "fire",
+      "value": "weak",
+      "image_url": "small_fire.gif"
+    },
+    {
+      "element": "lightning",
+      "value": "",
+      "image_url": "small_lightning.gif"
+    },
+    {
+      "element": "earth",
+      "value": "",
+      "image_url": "small_earth.gif"
+    },
+    {
+      "element": "wind",
+      "value": "",
+      "image_url": "small_wind.gif"
+    },
+    {
+      "element": "holy",
+      "value": "",
+      "image_url": "small_holy.gif"
+    },
+    {
+      "element": "dark",
+      "value": "",
+      "image_url": "small_dark.gif"
+    }
+  ],
+  "loot": [
+    {
+      "item": "Medicine x6",
+      "rate": "1.04%"
+    },
+    {
+      "item": "Robe",
+      "rate": "0.78%"
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+[
+    {
+        "id": 1,
+        "name": "Tir McDohl",
+        "star": "Tenkai",
+        "how_to_recruit": "Joins automatically at the beginning of the story.",
+        "optional": false
+    },
+    {
+        "id": 2,
+        "name": "Cleo",
+        "star": "Tenman",
+        "how_to_recruit": "Joins automatically before receiving your first mission from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 3,
+        "name": "Gremio",
+        "star": "Tenei",
+        "how_to_recruit": "Joins automatically before receiving your first mission from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 4,
+        "name": "Ted",
+        "star": "N/A",
+        "how_to_recruit": "Joins automatically before receiving your first mission from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 5,
+        "name": "Viktor",
+        "star": "Tenko",
+        "how_to_recruit": "Joins automatically before escaping Gregminster.",
+        "optional": false
+    },
+    {
+        "id": 6,
+        "name": "Odessa Silverberg",
+        "star": "N/A",
+        "how_to_recruit": "Joins automatically on your mission to Sarady.",
+        "optional": false
+    },
+    {
+        "id": 7,
+        "name": "Mathiu Silverberg",
+        "star": "Tenki",
+        "how_to_recruit": "Joins automatically after Tir agrees to become leader of the resistance.",
+        "optional": false
+    },
+    {
+        "id": 8,
+        "name": "Camille",
+        "star": "Tenyu",
+        "how_to_recruit": "Joins automatically after meeting Tai Ho.",
+        "optional": false
+    },
+    {
+        "id": 9,
+        "name": "Tai Ho",
+        "star": "Tenhei",
+        "how_to_recruit": "Joins automatically at the Toran Lake Fortress.",
+        "optional": false
+    },
+    {
+        "id": 10,
+        "name": "Luc",
+        "star": "Tenkai",
+        "how_to_recruit": "Joins automatically after taking the Toran Lake Fortress.",
+        "optional": false
+    },
+    {
+        "id": 11,
+        "name": "Yam Koo",
+        "star": "Tenson",
+        "how_to_recruit": "Joins automatically after taking the Toran Lake Fortress.",
+        "optional": false
+    },
+    {
+        "id": 12,
+        "name": "Chandler",
+        "star": "Chikou",
+        "how_to_recruit": "Speak to him at the Fortress of Kwaba after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 13,
+        "name": "Kai",
+        "star": "Chihi",
+        "how_to_recruit": "Speak to him at the Garan Fortress after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 14,
+        "name": "Lorelai",
+        "star": "Chikatsu",
+        "how_to_recruit": "Speak to her in the Inn at Kouan after taking the Toran Lake Fortress. Tir must be at least lv. 25.",
+        "optional": true
+    },
+    {
+        "id": 15,
+        "name": "Maas",
+        "star": "Chibaku",
+        "how_to_recruit": "Speak to him in the blacksmith at Great Forest Village after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 16,
+        "name": "Marie",
+        "star": "Chiin",
+        "how_to_recruit": "Speak to her in the Inn at Seika after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 17,
+        "name": "Onil",
+        "star": "Chizen",
+        "how_to_recruit": "Speak to her in her house at Seika after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 18,
+        "name": "Sansuke",
+        "star": "Chiretsu",
+        "how_to_recruit": "Speak to him in his house at Great Forest Village after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 19,
+        "name": "Sergei",
+        "star": "Chisou",
+        "how_to_recruit": "Speak to him in the Tavern at Kaku after taking the Toran Lake Fortress.",
+        "optional": true
+    },
+    {
+        "id": 20,
+        "name": "Antonio",
+        "star": "Chisyu",
+        "how_to_recruit": "Speak to him in the Inn at Seika anytime after recruitng Marie. Marie must have mentioned needing help with cooking. Repeatedly talk to her at the Inn at HQ until she does (you just talk to her a few times while choosing Don't Stay).",
+        "optional": true
+    },
+    {
+        "id": 21,
+        "name": "Rock",
+        "star": "Chison",
+        "how_to_recruit": "Speak to him in the Vault in Lepant's mansion. Allow him to join.",
+        "optional": true
+    },
+    {
+        "id": 22,
+        "name": "Juppo",
+        "star": "Chisyun",
+        "how_to_recruit": "Joins you automatically whether or not you speak with him.",
+        "optional": false
+    },
+    {
+        "id": 23,
+        "name": "Meg",
+        "star": "Chikei",
+        "how_to_recruit": "Speak to her outside the Inn at Kaku with Juppo in your active party.",
+        "optional": true
+    },
+    {
+        "id": 24,
+        "name": "Eileen",
+        "star": "Tenkou",
+        "how_to_recruit": "Joins automatically after saving her from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 25,
+        "name": "Giovanni",
+        "star": "Chiyou",
+        "how_to_recruit": "Joins automatically after saving Eileen from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 26,
+        "name": "Krin",
+        "star": "Chizoku",
+        "how_to_recruit": "Joins automatically after saving Eileen from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 27,
+        "name": "Lepant",
+        "star": "Tengou",
+        "how_to_recruit": "Joins automatically after saving Eileen from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 28,
+        "name": "Pahn",
+        "star": "Tentai",
+        "how_to_recruit": "Speak to him in Kraze's Mansion after saving Eileen.\r\nSpoiler: After conquering Scarleticia Castle, Pahn needs to survive an important duel. If he is around level 30, has a level 10+ weapon, and is equipped with the best armor available, he can easily win. If he doesn't, he dies.",
+        "optional": false
+    },
+    {
+        "id": 29,
+        "name": "Gaspar",
+        "star": "Chisyu",
+        "how_to_recruit": "Speak to him in the tavern at Kaku with a level 2 castle. Win 5000 bits from him.",
+        "optional": true
+    },
+    {
+        "id": 30,
+        "name": "Sydonia",
+        "star": "Tenkoku",
+        "how_to_recruit": "Joins automatically after saving Eileen from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 31,
+        "name": "Varkas",
+        "star": "Tenbou",
+        "how_to_recruit": "Joins automatically after saving Eileen from Kraze.",
+        "optional": false
+    },
+    {
+        "id": 32,
+        "name": "Kirkis",
+        "star": "Tenbi",
+        "how_to_recruit": "Joins automatically after agreeing to help him fight Kwanda Rossman's army.",
+        "optional": false
+    },
+    {
+        "id": 33,
+        "name": "Sheena",
+        "star": "Chimei",
+        "how_to_recruit": "Speak to him in the Inn at Seika with Lepant in your active party.\r\nCastle Level 2",
+        "optional": true
+    },
+    {
+        "id": 34,
+        "name": "Viki",
+        "star": "Chitatsu",
+        "how_to_recruit": "Allow her to join the army when you meet her in the Great Forest.",
+        "optional": true
+    },
+    {
+        "id": 35,
+        "name": "Meese",
+        "star": "Chihi",
+        "how_to_recruit": "Speak to him in the blacksmith at the Village of the Dwarves. Maas must be recruited.",
+        "optional": true
+    },
+    {
+        "id": 36,
+        "name": "Valeria",
+        "star": "Tensyo",
+        "how_to_recruit": "Joins automatically before going to the Village of the Dwarves.",
+        "optional": false
+    },
+    {
+        "id": 37,
+        "name": "Templeton",
+        "star": "Chimou",
+        "how_to_recruit": "Speak to him at the Village of the Elves after it is destroyed.",
+        "optional": true
+    },
+    {
+        "id": 38,
+        "name": "Kuromimi",
+        "star": "Chitan",
+        "how_to_recruit": "Joins automatically before the major battle with Kwanda Rossman.",
+        "optional": false
+    },
+    {
+        "id": 39,
+        "name": "Sanchez",
+        "star": "N/A",
+        "how_to_recruit": "Joins automatically before the major battle with Kwanda Rossman.",
+        "optional": false
+    },
+    {
+        "id": 40,
+        "name": "Humphrey Mintz",
+        "star": "Tenyu",
+        "how_to_recruit": "Joins automatically before the major battle with Kwanda Rossman.",
+        "optional": false
+    },
+    {
+        "id": 41,
+        "name": "Kwanda Rosman",
+        "star": "Tenmou",
+        "how_to_recruit": "After defeating him, mention that there is something wrong with him. Choose to recruit him.\r\nNote: Do not agree to execute him at any time.",
+        "optional": true
+    },
+    {
+        "id": 42,
+        "name": "Stallion",
+        "star": "Tensoku",
+        "how_to_recruit": "Joins automatically after defeating Kwanda Rosman.",
+        "optional": false
+    },
+    {
+        "id": 43,
+        "name": "Sylvina",
+        "star": "Chisatsu",
+        "how_to_recruit": "Joins automatically after defeating Kwanda Rosman.",
+        "optional": false
+    },
+    {
+        "id": 44,
+        "name": "Fu Su Lu",
+        "star": "Tensatsu",
+        "how_to_recruit": "Speak to him in the Inn at the Kobold Village. Pay 10,000 bits for the food he has eaten.",
+        "optional": true
+    },
+    {
+        "id": 45,
+        "name": "Gon",
+        "star": "Chikaku",
+        "how_to_recruit": "Speak to him in his house at Kobold Village with Kuromimi in the active party.",
+        "optional": true
+    },
+    {
+        "id": 46,
+        "name": "Rubi",
+        "star": "Chisoku",
+        "how_to_recruit": "Speak to him in the Inn at Kobold Village with Kirkis in your party. Kirkis must be at least Level 35.",
+        "optional": true
+    },
+    {
+        "id": 47,
+        "name": "Apple",
+        "star": "Chifuku",
+        "how_to_recruit": "Speak to her in Mathiu's house at Seika after defeating Kwanda Rosman. Tell her that Mathiu wanted to help you.\r\nCastle Level 2",
+        "optional": true
+    },
+    {
+        "id": 48,
+        "name": "Flik",
+        "star": "Tenan",
+        "how_to_recruit": "After he storms out of the HQ, follow him to Kaku. He will agree to join forces with you.",
+        "optional": false
+    },
+    {
+        "id": 49,
+        "name": "Chapman",
+        "star": "Chiyu",
+        "how_to_recruit": "Speak to him in the Armor Shop at Antei. Allow him to join you. He won't ask unless your Castle is at least Level 2.",
+        "optional": true
+    },
+    {
+        "id": 50,
+        "name": "Eikei",
+        "star": "Chiyu",
+        "how_to_recruit": "Speak to him at Teien with Tir at Level 40 or higher and Castle Level 2 or higher.",
+        "optional": true
+    },
+    {
+        "id": 51,
+        "name": "Hellion",
+        "star": "Chisyu",
+        "how_to_recruit": "Speak to her in the Inn/Item Shop at Teien. Allow her to join you. She won't ask unless your Castle is at least Level 2.",
+        "optional": true
+    },
+    {
+        "id": 52,
+        "name": "Jabba",
+        "star": "Chisei",
+        "how_to_recruit": "Speak to him in the Appraisal Shop at Rikon with a Nameless Urn in your inventory.",
+        "optional": true
+    },
+    {
+        "id": 53,
+        "name": "Jeane",
+        "star": "Chiketsu",
+        "how_to_recruit": "Speak to her in the Rune Shop at Antei. Allow her to join you. If your Castle is not large enough she will tell you to get more recruits.\r\nCastle Level 3",
+        "optional": true
+    },
+    {
+        "id": 54,
+        "name": "Lotte",
+        "star": "Chiku",
+        "how_to_recruit": "Speak to her in the Inn at Rikon. Agree to find her cat. Go to Kaku and capture the cat just outside the Inn. Return it to her. She will not ask for your help unless your Castle level is high enough.\r\nCastle Level 3",
+        "optional": true
+    },
+    {
+        "id": 55,
+        "name": "Mina",
+        "star": "Chiin",
+        "how_to_recruit": "Speak to her in the Inn at Antei. Agree to dance with her.\r\nNote: Tir must be equipped with Toe Shoes.",
+        "optional": true
+    },
+    {
+        "id": 56,
+        "name": "Anji",
+        "star": "Tenken",
+        "how_to_recruit": "Speak to him at the Pirate's Hideout with a level 3 castle and both Tai Ho and Yam Koo in your active party. Agree to fight him, Kanak, and Leonardo. Beat them within five rounds.",
+        "optional": true
+    },
+    {
+        "id": 57,
+        "name": "Kanak",
+        "star": "Tenzai",
+        "how_to_recruit": "Joins with Anji.",
+        "optional": true
+    },
+    {
+        "id": 58,
+        "name": "Leonardo",
+        "star": "Tenpai",
+        "how_to_recruit": "Joins with Anji.",
+        "optional": true
+    },
+    {
+        "id": 59,
+        "name": "Gen",
+        "star": "Chiman",
+        "how_to_recruit": "Joins automatically after agreeing to help you cross the rapids.",
+        "optional": false
+    },
+    {
+        "id": 60,
+        "name": "Kamandol",
+        "star": "Chiri",
+        "how_to_recruit": "Joins automatically after agreeing to help you cross the rapids.",
+        "optional": false
+    },
+    {
+        "id": 61,
+        "name": "Kimberley",
+        "star": "Chikou",
+        "how_to_recruit": "Joins automatically after agreeing to help you enter Soniere Prison.",
+        "optional": false
+    },
+    {
+        "id": 62,
+        "name": "Tesla",
+        "star": "Chibun",
+        "how_to_recruit": "Joins automatically after agreeing to help you enter Soniere Prison.",
+        "optional": false
+    },
+    {
+        "id": 63,
+        "name": "Esmeralda",
+        "star": "Chikai",
+        "how_to_recruit": "Speak to her in the Inn at Antei with an Opal in your inventory.",
+        "optional": true
+    },
+    {
+        "id": 64,
+        "name": "Liukan",
+        "star": "Chirei",
+        "how_to_recruit": "Joins automatically after saving him from Soniere Prison.",
+        "optional": false
+    },
+    {
+        "id": 65,
+        "name": "Milich Oppenheimer",
+        "star": "Tenkyu",
+        "how_to_recruit": "After defeating him, say that he is not at fault for killing Gremio.\r\nNote: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio.",
+        "optional": true
+    },
+    {
+        "id": 66,
+        "name": "Ivanov",
+        "star": "Chiyu",
+        "how_to_recruit": "Speak with him at Scarleticia Castle after defeating Milich.",
+        "optional": true
+    },
+    {
+        "id": 67,
+        "name": "Kasios",
+        "star": "Chiraku",
+        "how_to_recruit": "Speak to her at Scarleticia Castle with Milich in your active party.",
+        "optional": true
+    },
+    {
+        "id": 68,
+        "name": "Qlon",
+        "star": "Chiken",
+        "how_to_recruit": "Speak with him at Antei after defeating Milich and your Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 69,
+        "name": "Kasumi",
+        "star": "Chikyu",
+        "how_to_recruit": "Joins automatically before the first battle with Teo McDohl's army.",
+        "optional": false
+    },
+    {
+        "id": 70,
+        "name": "Georges",
+        "star": "Chisatsu",
+        "how_to_recruit": "Speak to him in the Inn at Kirov. Beat the record for any number of matches. Will not appear unless Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 71,
+        "name": "Lester",
+        "star": "Chizou",
+        "how_to_recruit": "In Kirov, enter the houses to the left and right of Sarah and taste the stew on the stove. Then enter the house south of Sarah and talk to him. Will not appear unless Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 72,
+        "name": "Sarah (S1)",
+        "star": "Chisou",
+        "how_to_recruit": "1: Speak to her in Kirov and listen to her request (won't ask if your Castle isn't at least Level 3)\r\n2: Purchase some Sugar at the Item Shop.\r\n3: Give the sugar to the villager at the Inn for a Yardstick. \r\n4: Give the Yardstick to the villager south of Sarah for some Salt. \r\n5: Give the Salt to the villager at the Item Shop for some Soy Sauce.\r\n6: Give the Soy Sauce to the villager at the Armor Shop for some Soap.\r\n7: Give the Soap to Sarah.",
+        "optional": true
+    },
+    {
+        "id": 73,
+        "name": "Blackman",
+        "star": "Chitou",
+        "how_to_recruit": "Speak to him at Kalekka without stepping on his plants.\r\nNote: If you step on his plants before speaking to him, simply exit the village and return.",
+        "optional": true
+    },
+    {
+        "id": 74,
+        "name": "Kage",
+        "star": "Teni",
+        "how_to_recruit": "Speak to him at the Secret Factory and pay his 20,000 bit fee.",
+        "optional": true
+    },
+    {
+        "id": 75,
+        "name": "Kessler",
+        "star": "Chisin",
+        "how_to_recruit": "Speak to him at the Secret Factory.",
+        "optional": true
+    },
+    {
+        "id": 76,
+        "name": "Ledon",
+        "star": "Chido",
+        "how_to_recruit": "Speak to him at the Secret Factory.",
+        "optional": true
+    },
+    {
+        "id": 77,
+        "name": "Melodye",
+        "star": "Chisa",
+        "how_to_recruit": "Speak to her at Kirov with the Sound Rune in your inventory.",
+        "optional": true
+    },
+    {
+        "id": 78,
+        "name": "Kun To",
+        "star": "Tenfu",
+        "how_to_recruit": "Joins automatically after agreeing to lend boats to Tai Ho.",
+        "optional": false
+    },
+    {
+        "id": 79,
+        "name": "Mose",
+        "star": "Chiziku",
+        "how_to_recruit": "Joins automatically before delivering the Fire Spears.",
+        "optional": false
+    },
+    {
+        "id": 80,
+        "name": "Ronnie Bell",
+        "star": "Chiaku",
+        "how_to_recruit": "Joins automatically before delivering the Fire Spears.",
+        "optional": false
+    },
+    {
+        "id": 81,
+        "name": "Alen",
+        "star": "Chimou",
+        "how_to_recruit": "Joins automatically after defeating General Teo.",
+        "optional": false
+    },
+    {
+        "id": 82,
+        "name": "Grenseal",
+        "star": "Chiki",
+        "how_to_recruit": "Joins automatically after defeating General Teo.",
+        "optional": false
+    },
+    {
+        "id": 83,
+        "name": "Kirke",
+        "star": "Chihei",
+        "how_to_recruit": "Speak to him at Fort Lorimar and ask him to join.",
+        "optional": true
+    },
+    {
+        "id": 84,
+        "name": "Marco",
+        "star": "Chitai",
+        "how_to_recruit": "Speak to him at the Warrior's Village and win 5,000 bits from him.",
+        "optional": true
+    },
+    {
+        "id": 85,
+        "name": "Moose",
+        "star": "Chikyou",
+        "how_to_recruit": "Speak to him in the  weapon shop at the Warrior's Village with Maas, Meese, and Mose in your active party.",
+        "optional": true
+    },
+    {
+        "id": 86,
+        "name": "Zen",
+        "star": "Chikei",
+        "how_to_recruit": "Speak to him behind Qlon Temple with the Red, Blue, and Yellow Flower Seeds in your inventory. He won't ask if your Castle isn't at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 87,
+        "name": "Morgan",
+        "star": "Chian",
+        "how_to_recruit": "Speak to him at Qlon Temple if your Castle is at least Level 3 and allow him to join the army, otherwise he will say he needs more training.",
+        "optional": true
+    },
+    {
+        "id": 88,
+        "name": "Quincy",
+        "star": "Chiyu",
+        "how_to_recruit": "Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters don't count).",
+        "optional": true
+    },
+    {
+        "id": 89,
+        "name": "Fukien",
+        "star": "Chijyu",
+        "how_to_recruit": "Joins automatically after entering Qlon Temple.",
+        "optional": false
+    },
+    {
+        "id": 90,
+        "name": "Hugo (S1)",
+        "star": "Chisui",
+        "how_to_recruit": "Speak to him at the Qlon Temple with the War Scroll in your inventory. He will not accept it unless your Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 91,
+        "name": "Window",
+        "star": "Chisu",
+        "how_to_recruit": "Speak to him in the Item Shop at Warrior's Village with the Window Rune in your inventory. He won't ask unless your Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 92,
+        "name": "Hix",
+        "star": "Tenrou",
+        "how_to_recruit": "Joins automatically before entering Neclord's Castle.",
+        "optional": false
+    },
+    {
+        "id": 93,
+        "name": "Tengaar",
+        "star": "Tensui",
+        "how_to_recruit": "Joins automatically after saving her from Neclord's Castle.",
+        "optional": false
+    },
+    {
+        "id": 94,
+        "name": "Clive",
+        "star": "Tensyo",
+        "how_to_recruit": "Speak to him in the Inn at Rikon with a level 4 HQ. Ask him to join the army.\r\nNote: Clive's appearance in the Inn is random. Enter and exit the town until you find him.",
+        "optional": true
+    },
+    {
+        "id": 95,
+        "name": "Crowley",
+        "star": "Chizen",
+        "how_to_recruit": "Speak to him in the [Cave of the Past] with a level 4 HQ. There is a secret passage that will lead to him in the third level of the cave.",
+        "optional": true
+    },
+    {
+        "id": 96,
+        "name": "Pesmerga",
+        "star": "Teni",
+        "how_to_recruit": "Speak to him on the top floor of Neclord's Castle with a level 4 HQ. Ask him to join the army.",
+        "optional": true
+    },
+    {
+        "id": 97,
+        "name": "Leon Silverberg",
+        "star": "Chikai",
+        "how_to_recruit": "Speak to him in the house at Kalekka. He will mention how impressive the Liberation Army has become. Speak to Mathiu at HQ and receive a letter. Deliver the letter to Leon.\r\nNote: If you wish to resurrect Gremio, this is the latest time you can recruit Leon-- receive the letter either the night before the mission at Moravia Castle or before the first major battle with Sonya Shulen's Army. Receiving the letter by the latter method will require you to make delivery immediately after the major battle at Shasarazade, before moving close to the entrance of Shasarazde's dungeon area.",
+        "optional": true
+    },
+    {
+        "id": 98,
+        "name": "Fuma",
+        "star": "Chikou",
+        "how_to_recruit": "Speak to him at the Dragon Knights' Fortress. Allow him to join the party.\r\nNote: He is at the upper-right of the first screen of the fortress and will not appear unless your Castle is at least Level 3.",
+        "optional": true
+    },
+    {
+        "id": 99,
+        "name": "Kreutz",
+        "star": "Tenku",
+        "how_to_recruit": "Speak to him at the Dragon Knights' Fortress with Humphrey in the active party.",
+        "optional": true
+    },
+    {
+        "id": 100,
+        "name": "Milia",
+        "star": "Chii",
+        "how_to_recruit": "Joins automatically before heading to Seek Valley.",
+        "optional": false
+    },
+    {
+        "id": 101,
+        "name": "Futch",
+        "star": "Chibi",
+        "how_to_recruit": "Joins automatically after returning from Seek Valley.",
+        "optional": false
+    },
+    {
+        "id": 102,
+        "name": "Joshua Levenheit",
+        "star": "Chikyou",
+        "how_to_recruit": "Joins automatically after returning from Seek Valley.",
+        "optional": false
+    },
+    {
+        "id": 103,
+        "name": "Taggart",
+        "star": "Chima",
+        "how_to_recruit": "Joins automatically after returning from Seek Valley.",
+        "optional": false
+    },
+    {
+        "id": 104,
+        "name": "Mace",
+        "star": "Chiko",
+        "how_to_recruit": "Speak to him at Seek Valley with Maas, Meese, Moose, and Mose in your active party and have a level 4 HQ.\r\nNote: Mace can only be recruited the night before the mission at Moravia Castle and before completeing the mission at Shasarazade.",
+        "optional": true
+    },
+    {
+        "id": 105,
+        "name": "Griffith",
+        "star": "Tenritsu",
+        "how_to_recruit": "After defeating him at the Northern Checkpoint, he will automatically join.",
+        "optional": false
+    },
+    {
+        "id": 106,
+        "name": "Kasim Hazil",
+        "star": "Tenyu",
+        "how_to_recruit": "Joins automatically after saving Warren and Viktor from Moravia Castle.",
+        "optional": false
+    },
+    {
+        "id": 107,
+        "name": "Warren",
+        "star": "Tenki",
+        "how_to_recruit": "Joins automatically after saving him and Viktor from Moravia Castle.",
+        "optional": false
+    },
+    {
+        "id": 108,
+        "name": "Vincent",
+        "star": "Chichin",
+        "how_to_recruit": "After saving Warren and Viktor, speak to him on the top floor of Moravia Castle.",
+        "optional": true
+    },
+    {
+        "id": 109,
+        "name": "Maximillian",
+        "star": "Chii",
+        "how_to_recruit": "After saving Warren and Viktor, enter the Northern Checkpoint and allow him to join the Liberation Army.",
+        "optional": true
+    },
+    {
+        "id": 110,
+        "name": "Sancho",
+        "star": "Chiei",
+        "how_to_recruit": "Joins with Maximillian.",
+        "optional": true
+    },
+    {
+        "id": 111,
+        "name": "Sonya Schulen",
+        "star": "Tenjyu",
+        "how_to_recruit": "After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance.",
+        "optional": true
+    }
+]
